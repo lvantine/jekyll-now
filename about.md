@@ -2,9 +2,10 @@
 layout: page
 title: About
 permalink: /about/
+
 ---
 
-Some information about you!
+I am a CLIR Postdoctoral Fellow based at the Kislak Center for Special Collections, Rare Books, and Manuscripts at the University of Pennsylvania. 
 
 ### More Information
 
